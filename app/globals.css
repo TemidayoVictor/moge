@@ -2,26 +2,32 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+
+* {
+    transition: all .2s;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+/* .hero-bg {
+  background-image: url(/assets/bg1.jpg);  
+} */
+
+@media screen and (max-width: 768px) {
+  html {
+    font-size: 93%;
   }
-}
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  .nav {
+    position: absolute;
+    width: 100%;
+    top: 100%;
+    left: 0;
+    display: block;
+    background-color: pink;
+    border-top: 1px solid rgb(128, 128, 128, .3);
+    border-bottom: 1px solid rgb(128, 128, 128, .3);
+  }
+
+  .nav-link {
+
+  }
 }
