@@ -3,9 +3,9 @@ import Image from "next/image"
 
 const Works = () => {
     return (
-        <div className="px-[10%] py-[3em] flex items-center justify-between">
-            <div className="left w-[50%]">
-                <h1 className="inline-block font-bold text-[2.5rem] border-b-4 border-slate-500">How <span className="text-blue-300">SportyBook</span> Works</h1>
+        <div className="px-[10%] py-[3em] flex items-center justify-between max-lg:px-[5%] max-lg:flex-col-reverse">
+            <div className="left w-[50%] max-lg:w-[100%]">
+                <h1 className="inline-block font-bold text-[2.5rem] border-b-4 border-slate-500 max-lg:text-[1.6rem]">How <span className="text-blue-300">SportyBook</span> Works</h1>
 
                 <div className="mt-5 flex flex-col gap-3">
                     <div className="flex gap-2 items-start">
@@ -30,7 +30,7 @@ const Works = () => {
                 </div>
             </div>
 
-            <div className="right w-[40%]">
+            <div className="right w-[40%] max-lg:w-[80%]">
                 <Image 
                     src="/assets/bot5.webp"
                     alt="Dyelum Logo"

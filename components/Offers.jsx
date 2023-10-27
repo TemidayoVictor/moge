@@ -1,6 +1,6 @@
 const Offers = () => {
     return (
-        <div className="px-[10%] py-[3em] text-center">
+        <div className="px-[10%] py-[3em] text-center max-lg:px-[5%]">
             <div>
                 <p className="text-blue-300 text-[.9rem]">WHAT DOES SPORTYBOOK OFFER</p>
                 <h1 className="font-bold text-[2.5rem]">Leverage Your Crypto Profits!</h1>

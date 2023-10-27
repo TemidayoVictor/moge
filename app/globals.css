@@ -11,9 +11,22 @@
   background-image: url(/assets/bg1.jpg);  
 } */
 
+.mobile {
+  display: none;
+}
+
+
 @media screen and (max-width: 768px) {
   html {
     font-size: 93%;
+  }
+
+  .mobile {
+    display: block;
+  }
+
+  .desktop, .desktop.nav {
+    display: none;
   }
 
   .nav {
@@ -21,13 +34,14 @@
     width: 100%;
     top: 100%;
     left: 0;
-    display: block;
-    background-color: pink;
+    text-align: center;
+    background-color: black;
     border-top: 1px solid rgb(128, 128, 128, .3);
-    border-bottom: 1px solid rgb(128, 128, 128, .3);
+    border-bottom: 1px solid ;
+
   }
 
   .nav-link {
-
+    display: block;
   }
 }
