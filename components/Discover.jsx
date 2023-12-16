@@ -1,6 +1,6 @@
 const Discover = () => {
     return (
-        <div className="bg-orange-900 bg-opacity-20 flex items-center justify-between px-[10%] py-[3em] max-lg:px-[5%] max-lg:flex-col max-lg:gap-6">
+        <div className="bg-purple-900 bg-opacity-20 flex items-center justify-between px-[10%] py-[3em] max-lg:px-[5%] max-lg:flex-col max-lg:gap-6">
             <div className="left  w-[48%] italic max-lg:w-[100%]">
                 <h1 className="font-bold text-[2.2rem]">
                     Discover Sport Book Bot: Redefining Your Crypto Trading Experience

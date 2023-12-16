@@ -2,13 +2,13 @@ const Offers = () => {
     return (
         <div className="px-[10%] py-[3em] text-center max-lg:px-[5%]">
             <div>
-                <p className="text-orange-300 text-[.9rem]">WHAT DOES SPORTYBOOK OFFER</p>
+                <p className="text-[#b096f5] text-[.9rem]">WHAT DOES SPORTYBOOK OFFER</p>
                 <h1 className="font-bold text-[2.5rem]">Leverage Your Crypto Profits!</h1>
             </div>
 
             <div className="grid max-lg:grid-cols-1 grid-cols-3 gap-6 my-[1em] mt-5">
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Sniper Bot</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -17,7 +17,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Unibot Integration</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -26,7 +26,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Limit Orders</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -35,7 +35,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Maestro Integration</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -44,7 +44,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Levrage Trading</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -52,7 +52,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">GMX Integration</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -60,7 +60,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Copy Trading</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -68,7 +68,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Wallet Mixer</h2>
                     <p className="text-[.9rem] tracking-wide px-4">
@@ -76,7 +76,7 @@ const Offers = () => {
                     </p>
                 </div>
 
-                <div className="bg-orange-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-orange-300">
+                <div className="bg-purple-900 bg-opacity-20 py-8 border border-transparent flex flex-col gap-3 rounded-[.5em] hover:border hover:border-purple-300">
                     <i className="bx bx-border-bottom text-[2.2rem]"></i>  
                     <h2 className="font-bold text-[1.5rem]">Rug Detector</h2>
                     <p className="text-[.9rem] tracking-wide px-4">

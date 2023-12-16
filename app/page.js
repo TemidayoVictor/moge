@@ -15,11 +15,11 @@ export default function Home() {
       
       <Header />
       <Hero />
-      <Discover />
-      <Works />
       <Future />
-      <Offers />
-      <Cta />
+      <Works />
+      {/* <Discover />
+      <Offers /> */}
+      {/* <Cta /> */}
       <Footer />
 
     </div>
