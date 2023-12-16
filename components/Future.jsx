@@ -28,7 +28,7 @@ const Future = () => {
                 <div className="mt-5 flex flex-col gap-8">
                     <div className="flex gap-2 items-center justify-center border-gray-700 border-b max-lg:flex-col-reverse">
                         <Image 
-                            src="/assets/moge1.png"
+                            src="/assets/moge1.PNG"
                             alt="Logo"
                             width={300}
                             height={300}
@@ -51,7 +51,7 @@ const Future = () => {
                             and meme lore, declared a grand trial.
                         </p>
                         <Image 
-                            src="/assets/moge2.png"
+                            src="/assets/moge2.PNG"
                             alt="Logo"
                             width={300}
                             height={300}
@@ -61,7 +61,7 @@ const Future = () => {
 
                     <div className="flex gap-2 items-center justify-center border-gray-700 border-b max-lg:flex-col-reverse"> 
                         <Image 
-                            src="/assets/moge3.png"
+                            src="/assets/moge3.PNG"
                             alt="Logo"
                             width={300}
                             height={300}
