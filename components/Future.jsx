@@ -40,7 +40,7 @@ const Future = () => {
 
                 <div className="mt-5 flex flex-col gap-8">
                     <div className="flex gap-2 items-start">
-                        <p className="text-[1.2rem] self-start"><strong className="text-[1.3rem]"></strong>
+                        <p className="text-[1.1rem] self-start"><strong className="text-[1.3rem]"></strong>
                             Madam Doge wasn't always royalty. She rose from humble beginnings, 
                             a mere pup in a litter of viral sensations. 
                             But her Doge spirit burned bright. With wit as sharp as her claws and a 
@@ -50,7 +50,7 @@ const Future = () => {
                     </div>
 
                     <div className="flex gap-2"> 
-                        <p className="text-[1.2rem]"><strong className="text-[1.3rem]"></strong> 
+                        <p className="text-[1.1rem]"><strong className="text-[1.3rem]"></strong> 
                             One fateful day, the Doge King #DogeCoin, her mischievous grandfather,
                             vanished in a puff of pixelated smoke into the moon. 
                             The Doge and Inu Council, steeped in ancient pup 
@@ -59,7 +59,7 @@ const Future = () => {
                     </div>
 
                     <div className="flex gap-2"> 
-                        <p className="text-[1.2rem]"><strong className="text-[1.3rem]"></strong> 
+                        <p className="text-[1.1rem]"><strong className="text-[1.3rem]"></strong> 
                             Contenders, from the stoic Shinbato the flamboyant Floki, 
                             vied for the crown. But none could match Madam Doge's cunning, 
                             her charm, and her unwavering dedication to the Dogecoin community.
@@ -67,7 +67,7 @@ const Future = () => {
                     </div>
 
                     <div className="flex gap-2"> 
-                        <p className="text-[1.2rem]"><strong className="text-[1.3rem]"></strong> 
+                        <p className="text-[1.1rem]"><strong className="text-[1.3rem]"></strong> 
                             With a doge-tastic display of smarts and agility, Madam Doge
                             bested them all. The Doge elders, their wrinkled faces split in
                             proud grins, placed the doge-encrusted crown upon her head.
@@ -75,7 +75,7 @@ const Future = () => {
                     </div>
 
                     <div className="flex gap-2"> 
-                        <p className="text-[1.2rem]"><strong className="text-[1.3rem]"></strong> 
+                        <p className="text-[1.1rem]"><strong className="text-[1.3rem]"></strong> 
                             And so, Madam Doge ascended the throne, the first queen of the Dogecoin Dynasty.
                         </p>
                     </div>
