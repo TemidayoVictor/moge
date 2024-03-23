@@ -5,8 +5,8 @@ import "../public/style/boxicons/boxicons-2.1.4/boxicons.min.css"
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'Madam Dodge',
-  description: 'Madam Dodge Web Application',
+  title: 'Base Domains',
+  description: 'Base Domains Web Application',
 }
 
 export default function RootLayout({ children }) {

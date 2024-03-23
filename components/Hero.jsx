@@ -11,15 +11,15 @@ const Hero = () => {
                     From Meme To Monarch, Meet the Queen of Doges and Inus.
                 </p>
                 <div className="grid grid-cols-3 max-lg:grid-cols-2 gap-2 my-[2em]">
-                    <Link href="#" className='bg-[#f1831f] text-center border border-transparent text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Twitter</Link>
-                    <Link href="#" className='bg-[#f1831f] text-center border border-transparent text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Telegram</Link>
-                    <p className='bg-[transparent] text-center border border-[#f1831f] text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Raydium (soon)</p>
+                    <Link href="#" className='bg-[#0157ff] text-center border border-transparent text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Twitter</Link>
+                    <Link href="#" className='bg-[#0157ff] text-center border border-transparent text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Telegram</Link>
+                    <p className='bg-[transparent] text-center border border-[#0157ff] text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#b096f5]'>Raydium (soon)</p>
                 </div>
                 
             </div>
             <div className="right">
                <Image 
-                src="/assets/moge.png"
+                src="/assets/baselogo.jpg"
                 alt="Madam Dodge Logo"
                 width={300}
                 height={300}
