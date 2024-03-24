@@ -24,7 +24,7 @@ const Header = () => {
                 {/* <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">ETHERSCAN</Link>
                 <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">DEXTOOLS</Link> */}
                 <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TELEGRAM</Link>
-                <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TWITTER</Link>
+                <Link href="https://twitter.com/BaseDomainss?t=VRR0xeLh73S_1a02mUp0-A&s=09" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TWITTER</Link>
             </nav>
 
             {
@@ -35,7 +35,7 @@ const Header = () => {
                     {/* <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">ETHERSCAN</Link>
                     <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">DEXTOOLS</Link> */}
                     <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TELEGRAM</Link>
-                    <Link href="/" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TWITTER</Link>
+                    <Link href="https://twitter.com/BaseDomainss?t=VRR0xeLh73S_1a02mUp0-A&s=09" className="nav-link text-[.9rem] border-b border-transparent hover:text-[#0157ff] hover:border-[#0157ff] py-3">TWITTER</Link>
                 </nav> 
             }
             

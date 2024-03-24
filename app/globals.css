@@ -21,7 +21,8 @@ body {
 }
 
 .multicolor {
-  background: linear-gradient(to right, #f1831f, #b096f5);
+  background: linear-gradient(to right, #0157ff, #8bbefd
+  );
   -webkit-background-clip: text;
   color: transparent;
 }

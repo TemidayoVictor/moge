@@ -26,12 +26,12 @@ const Future = () => {
                 <h1 className="inline-block font-bold text-[2.5rem] border-b-4 border-[#b096f5] multicolor">Mantra</h1>
 
                 <div className="mt-5 flex flex-col gap-8">
-                    <div className="flex gap-2 items-center justify-center border-gray-700 border-b max-lg:flex-col-reverse">
+                    <div className="flex gap-2 items-center justify-center pb-2 border-gray-700 border-b max-lg:flex-col-reverse">
                         <Image 
-                            src="/assets/moge1.PNG"
+                            src="/assets/baselogo.jpg"
                             alt="Logo"
-                            width={300}
-                            height={300}
+                            width={250}
+                            height={250}
                             className="rounded-lg"
                         />
                         <p className="text-[1.1rem] text-justify"><strong className="text-[1.3rem]"></strong>
@@ -43,7 +43,7 @@ const Future = () => {
                         </p>
                     </div>
 
-                    <div className="flex gap-2 items-center justify-center border-gray-700 border-b max-lg:flex-col"> 
+                    <div className="flex gap-2 items-center justify-center pb-2 border-gray-700 border-b max-lg:flex-col"> 
                         <p className="text-[1.1rem]"><strong className="text-[1.3rem]"></strong> 
                             One fateful day, the Doge King #DogeCoin, her mischievous grandfather,
                             vanished in a puff of pixelated smoke into the moon. 
@@ -51,20 +51,20 @@ const Future = () => {
                             and meme lore, declared a grand trial.
                         </p>
                         <Image 
-                            src="/assets/moge2.PNG"
+                            src="/assets/baselogo.jpg"
                             alt="Logo"
-                            width={300}
-                            height={300}
+                            width={250}
+                            height={250}
                             className="rounded-lg"
                         />
                     </div>
 
-                    <div className="flex gap-2 items-center justify-center border-gray-700 border-b max-lg:flex-col-reverse"> 
+                    <div className="flex gap-2 items-center justify-center pb-2 border-gray-700 border-b max-lg:flex-col-reverse"> 
                         <Image 
-                            src="/assets/moge3.PNG"
+                            src="/assets/baselogo.jpg"
                             alt="Logo"
-                            width={300}
-                            height={300}
+                            width={250}
+                            height={250}
                             className="rounded-lg"
                         />
                         <p className="text-[1.1rem] text-justify"><strong className="text-[1.3rem]"></strong> 
@@ -91,7 +91,7 @@ const Future = () => {
                 </div>
 
                 <div>
-                    <Link href="#" className='bg-[#f1831f] border border-transparent inline-block my-[2rem] text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-purple-300'>Learn More</Link>
+                    <Link href="#" className='bg-[#0157ff] border border-transparent inline-block my-[2rem] text-white px-5 py-2 rounded-[4px] hover:bg-transparent hover:border-[#0157ff]'>Learn More</Link>
                 </div>
             </div>
         </div>
